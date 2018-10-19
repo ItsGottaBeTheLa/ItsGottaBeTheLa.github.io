@@ -56,6 +56,9 @@ body {
   font-size: 18px;
   line-height: 34px;
   background-image: url("pitch.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
