@@ -39,4 +39,15 @@ $("#formButton").on("click", function(event){
         message: userMessage,
         contact: userContact,
     });
+    console.log(userName);
+    $("#fname").val("");
+    $("#email").val("");
+    $("#number").val("");
+    $("#message").val("");
+    $("#pcontact").val("");
+    
+});
+
+database.ref().on("child_added", function(childSnapshot){
+    console.log(childSnapshot.val());
 })
