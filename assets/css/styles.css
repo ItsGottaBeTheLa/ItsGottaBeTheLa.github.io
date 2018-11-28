@@ -26,8 +26,7 @@ p{
 #masthead{
     position: fixed;
     width: 100%;
-    margin: 0 0 20px;
-    overflow: auto;
+    margin-top: -20px;
     background-color: #eeeeee;
     border-bottom: 4px solid #3715C4;
 }
