@@ -166,6 +166,13 @@ input[type=submit]:hover{
     opacity: 1;
     color: #dddddd;
 }
+#resume{
+    color: #eeeeee;
+}
+#resume:hover{
+    cursor: pointer;
+    color: #3715C4;
+}
 /*media tags*/
 @media (max-width: 768px) {
     .footer, .masthead, .body {
