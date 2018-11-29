@@ -18,7 +18,7 @@ body{
 h1,
 h2,
 p{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     color: #C90000;
@@ -26,11 +26,12 @@ p{
 #masthead{
     position: fixed;
     width: 100%;
-    margin-top: -20px;
+    margin-top: 0px;
     background-color: #eeeeee;
     border-bottom: 4px solid #3715C4;
 }
 h1{
+    margin: 0 0 -10px;
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 25px;
