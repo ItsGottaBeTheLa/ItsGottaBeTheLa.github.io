@@ -152,6 +152,9 @@ input[type=submit]:hover{
 .card:nth-child(even){
     margin-right: 10px;
 }
+#card6{
+    margin-left: 3px;
+}
 
 #portfolio{
     padding: 30px;
