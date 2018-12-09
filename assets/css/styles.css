@@ -142,6 +142,7 @@ input[type=submit]:hover{
     margin: 20px 0 25px;
 }
 .card img{
+    padding: 10px 10px;
     width: 100%;
     border: 0 none;
 }
