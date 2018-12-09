@@ -170,10 +170,10 @@ input[type=submit]:hover{
 .card:hover .overlay{
     opacity: 1;
 }
-p{
+.pPortf{
     opacity: 0;
 }
-p:hover {
+.pPortf:hover {
     text-align: center;
     color: #000000;
     cursor: pointer;
