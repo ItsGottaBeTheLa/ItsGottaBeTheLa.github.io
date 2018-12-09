@@ -139,7 +139,7 @@ input[type=submit]:hover{
     display: inline-block;
     width: 274px;
     overflow: auto;
-    margin: 20px 0 25px;
+    margin: 20px 0 20px;
 }
 .card img{
     padding: 10px 10px;
